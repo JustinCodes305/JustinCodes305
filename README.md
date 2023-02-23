@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JustinCodes305
-- 👀 I’m interested in Web3 and creating smart contracts
-- 🌱 I’m currently learning Solidity and all about the blockchain/Web3 space
-- 💞️ I’m looking to collaborate on any smart contract or blockchain projects anyone might need help with
+- 👀 I’m interested in Cybesecurity and Infosec
+- 🌱 I’m currently learning Network and Cloud security.
 - 📫 How to reach me --> @justinclarke305@gmail.com
 
 <!---
